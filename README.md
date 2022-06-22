@@ -2,10 +2,6 @@
 
 The project is the c implementation of a simplified version of a blockchain service called "Alichain", where clients issue a request for finding their current amount of coins in their account, transfer them to another client and provide a file statement with all the transactions in order.
 
-## Full Name & Student ID
-
-> Full Name: Wentao Wang  
-> Student ID: 1942568982
 
 ## Compile & Run
 
